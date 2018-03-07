@@ -1,0 +1,10 @@
+Family,Name,R,G,B,Hex
+Basic,Red,191,4,17,#bf0411
+Texture,Violet,108,83,142,#6c538e
+Special,Green,0,108,75,#006c4b
+Special,Black,33,25,21,#211915
+Basic,Blue,0,82,144,#005290
+Basic,Yellow,254,238,0,#feee00
+Special,Ocher,182,141,27,#b68d1b
+Texture,Orange,202,95,76,#ca5f4c
+Texture,Brown,106,95,77,#6a5f4d

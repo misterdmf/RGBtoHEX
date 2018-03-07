@@ -1,0 +1,47 @@
+TableColors:{
+	 Basic:{
+		 {
+			 name: Yellow,
+			 hex: #feee00
+		 },
+		 {
+			 name: Blue,
+			 hex: #005290
+		 },
+		 {
+			 name: Red,
+			 hex: #bf0411
+		 },
+
+	},
+	 Special:{
+		 {
+			 name: Ocher,
+			 hex: #b68d1b
+		 },
+		 {
+			 name: Black,
+			 hex: #211915
+		 },
+		 {
+			 name: Green,
+			 hex: #006c4b
+		 },
+
+	},
+	 Texture:{
+		 {
+			 name: Brown,
+			 hex: #6a5f4d
+		 },
+		 {
+			 name: Orange,
+			 hex: #ca5f4c
+		 },
+		 {
+			 name: Violet,
+			 hex: #6c538e
+		 },
+
+	},
+};
